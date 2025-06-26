@@ -1,0 +1,9 @@
+.main {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height:15vh;
+  align-self: center;
+  justify-self: center;
+}
